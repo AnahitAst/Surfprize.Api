@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Validations\bin\Debug\netcoreapp3.1\Surfprize.Validations.deps.json
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Validations\bin\Debug\netcoreapp3.1\Surfprize.Validations.dll
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Validations\obj\Debug\netcoreapp3.1\Surfprize.Validations.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Validations\obj\Debug\netcoreapp3.1\Surfprize.Validations.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Validations\obj\Debug\netcoreapp3.1\Surfprize.Validations.AssemblyInfo.cs
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Validations\bin\Debug\netcoreapp3.1\Surfprize.Validations.pdb
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Validations\bin\Debug\netcoreapp3.1\Surfprize.Enums.dll
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Validations\bin\Debug\netcoreapp3.1\Surfprize.Models.dll
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Validations\bin\Debug\netcoreapp3.1\Surfprize.Models.pdb
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Validations\bin\Debug\netcoreapp3.1\Surfprize.Enums.pdb
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Validations\obj\Debug\netcoreapp3.1\Surfprize.Validations.csproj.CopyComplete
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Validations\obj\Debug\netcoreapp3.1\Surfprize.Validations.dll
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Validations\obj\Debug\netcoreapp3.1\Surfprize.Validations.pdb

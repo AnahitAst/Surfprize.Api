@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Enums\bin\Debug\netcoreapp3.1\Surfprize.Enums.deps.json
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Enums\bin\Debug\netcoreapp3.1\Surfprize.Enums.dll
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Enums\bin\Debug\netcoreapp3.1\Surfprize.Enums.pdb
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Enums\obj\Debug\netcoreapp3.1\Surfprize.Enums.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Enums\obj\Debug\netcoreapp3.1\Surfprize.Enums.AssemblyInfo.cs
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Enums\obj\Debug\netcoreapp3.1\Surfprize.Enums.dll
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Enums\obj\Debug\netcoreapp3.1\Surfprize.Enums.pdb

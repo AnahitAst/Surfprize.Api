@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Service\bin\Debug\netcoreapp3.1\Surfprize.Service.deps.json
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Service\bin\Debug\netcoreapp3.1\Surfprize.Service.dll
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Service\bin\Debug\netcoreapp3.1\Surfprize.Service.pdb
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Service\bin\Debug\netcoreapp3.1\Surfprize.DAL.dll
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Service\bin\Debug\netcoreapp3.1\Surfprize.Entity.dll
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Service\bin\Debug\netcoreapp3.1\Surfprize.Enums.dll
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Service\bin\Debug\netcoreapp3.1\Surfprize.DAL.pdb
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Service\bin\Debug\netcoreapp3.1\Surfprize.Entity.pdb
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Service\bin\Debug\netcoreapp3.1\Surfprize.Enums.pdb
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Service\obj\Debug\netcoreapp3.1\Surfprize.Service.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Service\obj\Debug\netcoreapp3.1\Surfprize.Service.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Service\obj\Debug\netcoreapp3.1\Surfprize.Service.AssemblyInfo.cs
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Service\obj\Debug\netcoreapp3.1\Surfprize.Service.csproj.CopyComplete
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Service\obj\Debug\netcoreapp3.1\Surfprize.Service.dll
+C:\Users\User\source\repos\Surfprize.Api\Surfprize.Service\obj\Debug\netcoreapp3.1\Surfprize.Service.pdb
