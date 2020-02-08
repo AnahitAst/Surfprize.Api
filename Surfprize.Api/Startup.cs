@@ -32,21 +32,16 @@ namespace Surfprize.Api
         {
             services.ConfigureDb(Configuration);
             services.ConfigureServices();
-            services.ConfigureOptions(Configuration);
+            //services.ConfigureOptions(Configuration);
             services.ConfigureAutoMapper();
             services.ConfigureApi();
             services.ConfigureJwtToken();
 
 
-            //services.AddMvc(options =>
-            //{
-            //    options.EnableEndpointRouting = false;
-            //}).AddNewtonsoftJson(options =>
-            //{
-            //    options.SerializerSettings.NullValueHandling = NullValueHandling.Ignore;
-            //    options.SerializerSettings.ReferenceLoopHandling = ReferenceLoopHandling.Ignore;
-            //    options.SerializerSettings.ContractResolver = new CamelCasePropertyNamesContractResolver();
-            //});          
+            services.AddMvc(options =>
+            {
+               options.EnableEndpointRouting = false;
+            });          
 
             services.ConfigureSwagger();
         }

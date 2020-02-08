@@ -1633,6 +1633,7 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "3.1.1",
           "Microsoft.EntityFrameworkCore.Relational": "3.1.1",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.1",
           "Surfprize.Entity": "1.0.0"
         },
         "compile": {
@@ -5982,34 +5983,32 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Surfprize.Api\\Surfprize.Api\\Surfprize.Api.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\api\\Surfprize.Api\\Surfprize.Api\\Surfprize.Api.csproj",
       "projectName": "Surfprize.Api",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Surfprize.Api\\Surfprize.Api\\Surfprize.Api.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\api\\Surfprize.Api\\Surfprize.Api\\Surfprize.Api.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Surfprize.Api\\Surfprize.Api\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\api\\Surfprize.Api\\Surfprize.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\Surfprize.Api\\Surfprize.Core\\Surfprize.Core.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\Surfprize.Api\\Surfprize.Core\\Surfprize.Core.csproj"
+            "C:\\Users\\User\\Desktop\\api\\Surfprize.Api\\Surfprize.Core\\Surfprize.Core.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\api\\Surfprize.Api\\Surfprize.Core\\Surfprize.Core.csproj"
             },
-            "C:\\Users\\User\\source\\repos\\Surfprize.Api\\Surfprize.Models\\Surfprize.Models.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\Surfprize.Api\\Surfprize.Models\\Surfprize.Models.csproj"
+            "C:\\Users\\User\\Desktop\\api\\Surfprize.Api\\Surfprize.Models\\Surfprize.Models.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\api\\Surfprize.Api\\Surfprize.Models\\Surfprize.Models.csproj"
             },
-            "C:\\Users\\User\\source\\repos\\Surfprize.Api\\Surfprize.Service\\Surfprize.Service.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\Surfprize.Api\\Surfprize.Service\\Surfprize.Service.csproj"
+            "C:\\Users\\User\\Desktop\\api\\Surfprize.Api\\Surfprize.Service\\Surfprize.Service.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\api\\Surfprize.Api\\Surfprize.Service\\Surfprize.Service.csproj"
             }
           }
         }
@@ -6088,7 +6087,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

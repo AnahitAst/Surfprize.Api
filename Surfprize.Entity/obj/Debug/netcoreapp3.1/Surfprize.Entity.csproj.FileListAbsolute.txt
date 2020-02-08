@@ -9,3 +9,14 @@ C:\Users\User\source\repos\Surfprize.Api\Surfprize.Entity\obj\Debug\netcoreapp3.
 C:\Users\User\source\repos\Surfprize.Api\Surfprize.Entity\obj\Debug\netcoreapp3.1\Surfprize.Entity.csproj.CopyComplete
 C:\Users\User\source\repos\Surfprize.Api\Surfprize.Entity\obj\Debug\netcoreapp3.1\Surfprize.Entity.dll
 C:\Users\User\source\repos\Surfprize.Api\Surfprize.Entity\obj\Debug\netcoreapp3.1\Surfprize.Entity.pdb
+C:\Users\User\Desktop\api\Surfprize.Api\Surfprize.Entity\bin\Debug\netcoreapp3.1\Surfprize.Entity.deps.json
+C:\Users\User\Desktop\api\Surfprize.Api\Surfprize.Entity\bin\Debug\netcoreapp3.1\Surfprize.Entity.dll
+C:\Users\User\Desktop\api\Surfprize.Api\Surfprize.Entity\bin\Debug\netcoreapp3.1\Surfprize.Entity.pdb
+C:\Users\User\Desktop\api\Surfprize.Api\Surfprize.Entity\bin\Debug\netcoreapp3.1\Surfprize.Enums.dll
+C:\Users\User\Desktop\api\Surfprize.Api\Surfprize.Entity\bin\Debug\netcoreapp3.1\Surfprize.Enums.pdb
+C:\Users\User\Desktop\api\Surfprize.Api\Surfprize.Entity\obj\Debug\netcoreapp3.1\Surfprize.Entity.csprojAssemblyReference.cache
+C:\Users\User\Desktop\api\Surfprize.Api\Surfprize.Entity\obj\Debug\netcoreapp3.1\Surfprize.Entity.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\api\Surfprize.Api\Surfprize.Entity\obj\Debug\netcoreapp3.1\Surfprize.Entity.AssemblyInfo.cs
+C:\Users\User\Desktop\api\Surfprize.Api\Surfprize.Entity\obj\Debug\netcoreapp3.1\Surfprize.Entity.csproj.CopyComplete
+C:\Users\User\Desktop\api\Surfprize.Api\Surfprize.Entity\obj\Debug\netcoreapp3.1\Surfprize.Entity.dll
+C:\Users\User\Desktop\api\Surfprize.Api\Surfprize.Entity\obj\Debug\netcoreapp3.1\Surfprize.Entity.pdb

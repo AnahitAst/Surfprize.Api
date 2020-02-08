@@ -18,6 +18,7 @@ using Surfprize.Core;
 
 namespace Surfprize.Api.Controllers
 {
+    [Route("[controller]")]
     public class AccountController : BaseController
     {
         private readonly IUserService userService;
