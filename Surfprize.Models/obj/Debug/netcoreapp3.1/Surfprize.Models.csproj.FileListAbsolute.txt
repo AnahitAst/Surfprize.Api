@@ -20,3 +20,14 @@ C:\Users\User\Desktop\api\Surfprize.Api\Surfprize.Models\obj\Debug\netcoreapp3.1
 C:\Users\User\Desktop\api\Surfprize.Api\Surfprize.Models\obj\Debug\netcoreapp3.1\Surfprize.Models.csproj.CopyComplete
 C:\Users\User\Desktop\api\Surfprize.Api\Surfprize.Models\obj\Debug\netcoreapp3.1\Surfprize.Models.dll
 C:\Users\User\Desktop\api\Surfprize.Api\Surfprize.Models\obj\Debug\netcoreapp3.1\Surfprize.Models.pdb
+C:\Users\User\Source\Repos\AnahitAst\Surfprize.Api\Surfprize.Models\bin\Debug\netcoreapp3.1\Surfprize.Models.deps.json
+C:\Users\User\Source\Repos\AnahitAst\Surfprize.Api\Surfprize.Models\bin\Debug\netcoreapp3.1\Surfprize.Models.dll
+C:\Users\User\Source\Repos\AnahitAst\Surfprize.Api\Surfprize.Models\bin\Debug\netcoreapp3.1\Surfprize.Models.pdb
+C:\Users\User\Source\Repos\AnahitAst\Surfprize.Api\Surfprize.Models\bin\Debug\netcoreapp3.1\Surfprize.Enums.dll
+C:\Users\User\Source\Repos\AnahitAst\Surfprize.Api\Surfprize.Models\bin\Debug\netcoreapp3.1\Surfprize.Enums.pdb
+C:\Users\User\Source\Repos\AnahitAst\Surfprize.Api\Surfprize.Models\obj\Debug\netcoreapp3.1\Surfprize.Models.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\AnahitAst\Surfprize.Api\Surfprize.Models\obj\Debug\netcoreapp3.1\Surfprize.Models.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\AnahitAst\Surfprize.Api\Surfprize.Models\obj\Debug\netcoreapp3.1\Surfprize.Models.AssemblyInfo.cs
+C:\Users\User\Source\Repos\AnahitAst\Surfprize.Api\Surfprize.Models\obj\Debug\netcoreapp3.1\Surfprize.Models.csproj.CopyComplete
+C:\Users\User\Source\Repos\AnahitAst\Surfprize.Api\Surfprize.Models\obj\Debug\netcoreapp3.1\Surfprize.Models.dll
+C:\Users\User\Source\Repos\AnahitAst\Surfprize.Api\Surfprize.Models\obj\Debug\netcoreapp3.1\Surfprize.Models.pdb

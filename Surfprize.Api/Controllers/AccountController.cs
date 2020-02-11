@@ -18,6 +18,7 @@ using Surfprize.Core;
 
 namespace Surfprize.Api.Controllers
 {
+    [ApiController]
     [Route("[controller]")]
     public class AccountController : BaseController
     {
@@ -33,8 +34,12 @@ namespace Surfprize.Api.Controllers
             this.userService = userService;
         }
 
+
+
+
         [AllowAnonymous]
         [HttpPost]
+        [Route("[action]")]
         public async Task<IActionResult> SignIn([FromBody] SignInRequestModel model)
         {
             if (ModelState.IsValid)
@@ -77,6 +82,62 @@ namespace Surfprize.Api.Controllers
             }
 
             return Error(ModelState);
+        }
+
+        [AllowAnonymous]
+        [HttpPost]
+        [Route("[action]")]
+        public async Task<IActionResult> SignUp([FromBody] SignUpRequestModel model)
+        {
+            if (ModelState.IsValid)
+            {
+                try
+                {
+                    User user = new User
+                    {
+                        Email = model.Email,
+                        FirstName = model.FirstName,
+                        LastName = model.LastName,
+                        Password = PasswordHasher.HashPassword(model.Password),
+                        PhoneNumber = model.PhoneNumber
+                    };
+
+                    await userService.AddAsync(user);
+                    Save();
+
+                    return ApiResult(true);
+                }
+                catch (Exception ex)
+                {
+                    HandleException(ex);
+                }
+            }
+
+            return Error(ModelState);
+        }
+
+        [AllowAnonymous]
+        [HttpPut]
+        [Route("[action]")]
+        public async Task<IActionResult> Edit([FromBody] EditRequestModel model)
+        {
+            if (model == null)
+            {
+                return BadRequest();
+            }
+            User user = userService.FindById(model.UserId);
+
+            user.FirstName = model.FirstName;
+            user.LastName = model.LastName;
+            user.PhoneNumber = model.PhoneNumber;
+            user.Email = model.Email;
+            user.Password = model.Password;
+
+            
+
+            userService.Update(user);
+            await SaveAsync();
+            return Ok(user);
         }
     }
 }

@@ -1,25 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\api\\Surfprize.Api\\Surfprize.Validations\\Surfprize.Validations.csproj": {}
+    "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Validations\\Surfprize.Validations.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\api\\Surfprize.Api\\Surfprize.Enums\\Surfprize.Enums.csproj": {
+    "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Enums\\Surfprize.Enums.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\api\\Surfprize.Api\\Surfprize.Enums\\Surfprize.Enums.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Enums\\Surfprize.Enums.csproj",
         "projectName": "Surfprize.Enums",
-        "projectPath": "C:\\Users\\User\\Desktop\\api\\Surfprize.Api\\Surfprize.Enums\\Surfprize.Enums.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Enums\\Surfprize.Enums.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\api\\Surfprize.Api\\Surfprize.Enums\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Enums\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,29 +59,34 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\api\\Surfprize.Api\\Surfprize.Models\\Surfprize.Models.csproj": {
+    "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Models\\Surfprize.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\api\\Surfprize.Api\\Surfprize.Models\\Surfprize.Models.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Models\\Surfprize.Models.csproj",
         "projectName": "Surfprize.Models",
-        "projectPath": "C:\\Users\\User\\Desktop\\api\\Surfprize.Api\\Surfprize.Models\\Surfprize.Models.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Models\\Surfprize.Models.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\api\\Surfprize.Api\\Surfprize.Models\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Models\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\api\\Surfprize.Api\\Surfprize.Enums\\Surfprize.Enums.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\api\\Surfprize.Api\\Surfprize.Enums\\Surfprize.Enums.csproj"
+              "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Enums\\Surfprize.Enums.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Enums\\Surfprize.Enums.csproj"
               }
             }
           }
@@ -108,29 +118,34 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\api\\Surfprize.Api\\Surfprize.Validations\\Surfprize.Validations.csproj": {
+    "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Validations\\Surfprize.Validations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\api\\Surfprize.Api\\Surfprize.Validations\\Surfprize.Validations.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Validations\\Surfprize.Validations.csproj",
         "projectName": "Surfprize.Validations",
-        "projectPath": "C:\\Users\\User\\Desktop\\api\\Surfprize.Api\\Surfprize.Validations\\Surfprize.Validations.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Validations\\Surfprize.Validations.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\api\\Surfprize.Api\\Surfprize.Validations\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Validations\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\api\\Surfprize.Api\\Surfprize.Models\\Surfprize.Models.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\api\\Surfprize.Api\\Surfprize.Models\\Surfprize.Models.csproj"
+              "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Models\\Surfprize.Models.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Models\\Surfprize.Models.csproj"
               }
             }
           }
