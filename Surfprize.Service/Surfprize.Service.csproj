@@ -5,8 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Surfprize.Core\Surfprize.Core.csproj" />
     <ProjectReference Include="..\Surfprize.DAL\Surfprize.DAL.csproj" />
     <ProjectReference Include="..\Surfprize.Entity\Surfprize.Entity.csproj" />
+    <ProjectReference Include="..\Surfprize.Models\Surfprize.Models.csproj" />
   </ItemGroup>
 
 </Project>

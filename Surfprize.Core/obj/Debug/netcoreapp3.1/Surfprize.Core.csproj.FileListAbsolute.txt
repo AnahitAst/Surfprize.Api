@@ -21,3 +21,11 @@ C:\Users\User\Source\Repos\AnahitAst\Surfprize.Api\Surfprize.Core\obj\Debug\netc
 C:\Users\User\Source\Repos\AnahitAst\Surfprize.Api\Surfprize.Core\obj\Debug\netcoreapp3.1\Surfprize.Core.AssemblyInfo.cs
 C:\Users\User\Source\Repos\AnahitAst\Surfprize.Api\Surfprize.Core\obj\Debug\netcoreapp3.1\Surfprize.Core.dll
 C:\Users\User\Source\Repos\AnahitAst\Surfprize.Api\Surfprize.Core\obj\Debug\netcoreapp3.1\Surfprize.Core.pdb
+C:\Users\Titer\source\repos\Surfprize.Api\Surfprize.Core\bin\Debug\netcoreapp3.1\Surfprize.Core.deps.json
+C:\Users\Titer\source\repos\Surfprize.Api\Surfprize.Core\bin\Debug\netcoreapp3.1\Surfprize.Core.dll
+C:\Users\Titer\source\repos\Surfprize.Api\Surfprize.Core\bin\Debug\netcoreapp3.1\Surfprize.Core.pdb
+C:\Users\Titer\source\repos\Surfprize.Api\Surfprize.Core\obj\Debug\netcoreapp3.1\Surfprize.Core.csprojAssemblyReference.cache
+C:\Users\Titer\source\repos\Surfprize.Api\Surfprize.Core\obj\Debug\netcoreapp3.1\Surfprize.Core.AssemblyInfoInputs.cache
+C:\Users\Titer\source\repos\Surfprize.Api\Surfprize.Core\obj\Debug\netcoreapp3.1\Surfprize.Core.AssemblyInfo.cs
+C:\Users\Titer\source\repos\Surfprize.Api\Surfprize.Core\obj\Debug\netcoreapp3.1\Surfprize.Core.dll
+C:\Users\Titer\source\repos\Surfprize.Api\Surfprize.Core\obj\Debug\netcoreapp3.1\Surfprize.Core.pdb

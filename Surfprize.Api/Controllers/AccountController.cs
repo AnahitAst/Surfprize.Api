@@ -93,18 +93,8 @@ namespace Surfprize.Api.Controllers
             {
                 try
                 {
-                    User user = new User
-                    {
-                        Email = model.Email,
-                        FirstName = model.FirstName,
-                        LastName = model.LastName,
-                        Password = PasswordHasher.HashPassword(model.Password),
-                        PhoneNumber = model.PhoneNumber
-                    };
-
-                    await userService.AddAsync(user);
-                    Save();
-
+                    await userService.AddUser(model);
+                    await SaveAsync();
                     return ApiResult(true);
                 }
                 catch (Exception ex)
@@ -125,19 +115,26 @@ namespace Surfprize.Api.Controllers
             {
                 return BadRequest();
             }
-            User user = userService.FindById(model.UserId);
 
-            user.FirstName = model.FirstName;
-            user.LastName = model.LastName;
-            user.PhoneNumber = model.PhoneNumber;
-            user.Email = model.Email;
-            user.Password = model.Password;
-
-            
-
-            userService.Update(user);
+            await userService.EditUser(model);
             await SaveAsync();
-            return Ok(user);
+            return Ok(model);
+        }
+
+
+        [AllowAnonymous]
+        [HttpDelete]
+        [Route("[action]")]
+        public async Task<IActionResult> DeleteUser([FromBody] DeleteRequestModel model)
+        {
+            if (model == null)
+            {
+                return BadRequest("Account not found");
+            }
+
+            userService.Delete(model);
+            await SaveAsync();
+            return Ok(model);
         }
     }
 }

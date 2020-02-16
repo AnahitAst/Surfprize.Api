@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Models\\Surfprize.Models.csproj": {}
+    "C:\\Users\\Titer\\source\\repos\\Surfprize.Api\\Surfprize.Models\\Surfprize.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Enums\\Surfprize.Enums.csproj": {
+    "C:\\Users\\Titer\\source\\repos\\Surfprize.Api\\Surfprize.Enums\\Surfprize.Enums.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Enums\\Surfprize.Enums.csproj",
+        "projectUniqueName": "C:\\Users\\Titer\\source\\repos\\Surfprize.Api\\Surfprize.Enums\\Surfprize.Enums.csproj",
         "projectName": "Surfprize.Enums",
-        "projectPath": "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Enums\\Surfprize.Enums.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Enums\\obj\\",
+        "projectPath": "C:\\Users\\Titer\\source\\repos\\Surfprize.Api\\Surfprize.Enums\\Surfprize.Enums.csproj",
+        "packagesPath": "C:\\Users\\Titer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Titer\\source\\repos\\Surfprize.Api\\Surfprize.Enums\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Titer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,20 +59,20 @@
         }
       }
     },
-    "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Models\\Surfprize.Models.csproj": {
+    "C:\\Users\\Titer\\source\\repos\\Surfprize.Api\\Surfprize.Models\\Surfprize.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Models\\Surfprize.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Titer\\source\\repos\\Surfprize.Api\\Surfprize.Models\\Surfprize.Models.csproj",
         "projectName": "Surfprize.Models",
-        "projectPath": "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Models\\Surfprize.Models.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Models\\obj\\",
+        "projectPath": "C:\\Users\\Titer\\source\\repos\\Surfprize.Api\\Surfprize.Models\\Surfprize.Models.csproj",
+        "packagesPath": "C:\\Users\\Titer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Titer\\source\\repos\\Surfprize.Api\\Surfprize.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Titer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -85,8 +85,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Enums\\Surfprize.Enums.csproj": {
-                "projectPath": "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Enums\\Surfprize.Enums.csproj"
+              "C:\\Users\\Titer\\source\\repos\\Surfprize.Api\\Surfprize.Enums\\Surfprize.Enums.csproj": {
+                "projectPath": "C:\\Users\\Titer\\source\\repos\\Surfprize.Api\\Surfprize.Enums\\Surfprize.Enums.csproj"
               }
             }
           }

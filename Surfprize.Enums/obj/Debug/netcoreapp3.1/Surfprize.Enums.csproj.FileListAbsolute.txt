@@ -20,3 +20,11 @@ C:\Users\User\Source\Repos\AnahitAst\Surfprize.Api\Surfprize.Enums\obj\Debug\net
 C:\Users\User\Source\Repos\AnahitAst\Surfprize.Api\Surfprize.Enums\obj\Debug\netcoreapp3.1\Surfprize.Enums.AssemblyInfo.cs
 C:\Users\User\Source\Repos\AnahitAst\Surfprize.Api\Surfprize.Enums\obj\Debug\netcoreapp3.1\Surfprize.Enums.dll
 C:\Users\User\Source\Repos\AnahitAst\Surfprize.Api\Surfprize.Enums\obj\Debug\netcoreapp3.1\Surfprize.Enums.pdb
+C:\Users\Titer\source\repos\Surfprize.Api\Surfprize.Enums\bin\Debug\netcoreapp3.1\Surfprize.Enums.deps.json
+C:\Users\Titer\source\repos\Surfprize.Api\Surfprize.Enums\bin\Debug\netcoreapp3.1\Surfprize.Enums.dll
+C:\Users\Titer\source\repos\Surfprize.Api\Surfprize.Enums\bin\Debug\netcoreapp3.1\Surfprize.Enums.pdb
+C:\Users\Titer\source\repos\Surfprize.Api\Surfprize.Enums\obj\Debug\netcoreapp3.1\Surfprize.Enums.csprojAssemblyReference.cache
+C:\Users\Titer\source\repos\Surfprize.Api\Surfprize.Enums\obj\Debug\netcoreapp3.1\Surfprize.Enums.AssemblyInfoInputs.cache
+C:\Users\Titer\source\repos\Surfprize.Api\Surfprize.Enums\obj\Debug\netcoreapp3.1\Surfprize.Enums.AssemblyInfo.cs
+C:\Users\Titer\source\repos\Surfprize.Api\Surfprize.Enums\obj\Debug\netcoreapp3.1\Surfprize.Enums.dll
+C:\Users\Titer\source\repos\Surfprize.Api\Surfprize.Enums\obj\Debug\netcoreapp3.1\Surfprize.Enums.pdb

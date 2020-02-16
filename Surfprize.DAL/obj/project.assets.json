@@ -5031,23 +5031,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Users\\Titer\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.DAL\\Surfprize.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\Titer\\source\\repos\\Surfprize.Api\\Surfprize.DAL\\Surfprize.DAL.csproj",
       "projectName": "Surfprize.DAL",
-      "projectPath": "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.DAL\\Surfprize.DAL.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.DAL\\obj\\",
+      "projectPath": "C:\\Users\\Titer\\source\\repos\\Surfprize.Api\\Surfprize.DAL\\Surfprize.DAL.csproj",
+      "packagesPath": "C:\\Users\\Titer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Titer\\source\\repos\\Surfprize.Api\\Surfprize.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Titer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5060,8 +5060,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Entity\\Surfprize.Entity.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Entity\\Surfprize.Entity.csproj"
+            "C:\\Users\\Titer\\source\\repos\\Surfprize.Api\\Surfprize.Entity\\Surfprize.Entity.csproj": {
+              "projectPath": "C:\\Users\\Titer\\source\\repos\\Surfprize.Api\\Surfprize.Entity\\Surfprize.Entity.csproj"
             }
           }
         }

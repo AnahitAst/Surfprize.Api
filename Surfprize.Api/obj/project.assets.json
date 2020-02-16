@@ -1683,8 +1683,10 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "Surfprize.Core": "1.0.0",
           "Surfprize.DAL": "1.0.0",
-          "Surfprize.Entity": "1.0.0"
+          "Surfprize.Entity": "1.0.0",
+          "Surfprize.Models": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Surfprize.Service.dll": {}
@@ -5978,23 +5980,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Users\\Titer\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Api\\Surfprize.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Titer\\source\\repos\\Surfprize.Api\\Surfprize.Api\\Surfprize.Api.csproj",
       "projectName": "Surfprize.Api",
-      "projectPath": "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Api\\Surfprize.Api.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Api\\obj\\",
+      "projectPath": "C:\\Users\\Titer\\source\\repos\\Surfprize.Api\\Surfprize.Api\\Surfprize.Api.csproj",
+      "packagesPath": "C:\\Users\\Titer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Titer\\source\\repos\\Surfprize.Api\\Surfprize.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Titer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6007,14 +6009,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Core\\Surfprize.Core.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Core\\Surfprize.Core.csproj"
+            "C:\\Users\\Titer\\source\\repos\\Surfprize.Api\\Surfprize.Core\\Surfprize.Core.csproj": {
+              "projectPath": "C:\\Users\\Titer\\source\\repos\\Surfprize.Api\\Surfprize.Core\\Surfprize.Core.csproj"
             },
-            "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Models\\Surfprize.Models.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Models\\Surfprize.Models.csproj"
+            "C:\\Users\\Titer\\source\\repos\\Surfprize.Api\\Surfprize.Models\\Surfprize.Models.csproj": {
+              "projectPath": "C:\\Users\\Titer\\source\\repos\\Surfprize.Api\\Surfprize.Models\\Surfprize.Models.csproj"
             },
-            "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Service\\Surfprize.Service.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Service\\Surfprize.Service.csproj"
+            "C:\\Users\\Titer\\source\\repos\\Surfprize.Api\\Surfprize.Service\\Surfprize.Service.csproj": {
+              "projectPath": "C:\\Users\\Titer\\source\\repos\\Surfprize.Api\\Surfprize.Service\\Surfprize.Service.csproj"
             }
           }
         }

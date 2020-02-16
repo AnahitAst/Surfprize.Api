@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Core\\Surfprize.Core.csproj": {}
+    "C:\\Users\\Titer\\source\\repos\\Surfprize.Api\\Surfprize.Core\\Surfprize.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Core\\Surfprize.Core.csproj": {
+    "C:\\Users\\Titer\\source\\repos\\Surfprize.Api\\Surfprize.Core\\Surfprize.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Core\\Surfprize.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Titer\\source\\repos\\Surfprize.Api\\Surfprize.Core\\Surfprize.Core.csproj",
         "projectName": "Surfprize.Core",
-        "projectPath": "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Core\\Surfprize.Core.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\AnahitAst\\Surfprize.Api\\Surfprize.Core\\obj\\",
+        "projectPath": "C:\\Users\\Titer\\source\\repos\\Surfprize.Api\\Surfprize.Core\\Surfprize.Core.csproj",
+        "packagesPath": "C:\\Users\\Titer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Titer\\source\\repos\\Surfprize.Api\\Surfprize.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Titer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

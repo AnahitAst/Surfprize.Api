@@ -1,4 +1,5 @@
 ﻿using Surfprize.Entity;
+using Surfprize.Models.Account;
 using System.Threading.Tasks;
 
 namespace Surfprize.Service.Interfaces
@@ -7,5 +8,8 @@ namespace Surfprize.Service.Interfaces
     {
         Task<User> GetByEmailAsync(string email);
         User GetByEmail(string email);
+        Task<User> AddUser(SignUpRequestModel model);
+        User Delete(DeleteRequestModel model);
+        Task<User> EditUser(EditRequestModel model);
     }
 }

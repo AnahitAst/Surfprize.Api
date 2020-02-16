@@ -1551,8 +1551,10 @@
       },
       "Surfprize.Service/1.0.0": {
         "dependencies": {
+          "Surfprize.Core": "1.0.0",
           "Surfprize.DAL": "1.0.0",
-          "Surfprize.Entity": "1.0.0"
+          "Surfprize.Entity": "1.0.0",
+          "Surfprize.Models": "1.0.0"
         },
         "runtime": {
           "Surfprize.Service.dll": {}
